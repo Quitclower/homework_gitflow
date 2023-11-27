@@ -1,6 +1,6 @@
 def func():
     """
-    добавление докстринга к ветке develop
+    добавление докстринга через гитхаб
     """
     word = "hello from python"
     print(word.upper())
