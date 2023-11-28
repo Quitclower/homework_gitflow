@@ -1,15 +1,15 @@
 def func():
     """
-    another dockstring
+    добавление докстринга через гитхаб
     """
     word = "hello from python"
     print(word.upper())
 
 func()
 
-def func2():
+def func1():
     """функция добавляет первые заглавные буквы у строк"""
     word1 = "hello from linux"
     print(word1.title())
 
-func2()
+func1()
