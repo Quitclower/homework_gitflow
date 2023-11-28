@@ -1,6 +1,6 @@
 def func():
     """
-    Docstring
+    добавление докстринга через гитха,
     """
     word = "hello from python"
     print(word.upper())
